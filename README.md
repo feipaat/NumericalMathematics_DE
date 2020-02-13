@@ -6,4 +6,4 @@ GitHub repository of the course Numerical Mathematics which consists the actual 
 <br>
 
 + Lecturer: Imre Fekete
-+ Seminar Instructor: Sándor Pecsora Sándor
++ Seminar Instructor: Sándor Pecsora
